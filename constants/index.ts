@@ -1,10 +1,10 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
-  { href: '/', key: 'services', label: 'Services' },
-  { href: '/', key: 'pricing ', label: 'Pricing ' },
-  { href: '/', key: 'contact_us', label: 'Contact Us' },
+  // { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+  // { href: '/', key: 'services', label: 'Services' },
+  // { href: '/', key: 'pricing ', label: 'Pricing ' },
+  // { href: '/', key: 'contact_us', label: 'Contact Us' },
 ];
 
 // CAMP SECTION
@@ -49,28 +49,28 @@ export const FEATURES = [
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
-  {
-    title: 'Learn More',
-    links: [
-      'About Hilink',
-      'Press Releases',
-      'Environment',
-      'Jobs',
-      'Privacy Policy',
-      'Contact Us',
-    ],
-  },
-  {
-    title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
-  },
+  // {
+  //   title: 'Learn More',
+  //   links: [
+  //     'About Hilink',
+  //     'Press Releases',
+  //     'Environment',
+  //     'Jobs',
+  //     'Privacy Policy',
+  //     'Contact Us',
+  //   ],
+  // },
+  // {
+  //   title: 'Our Community',
+  //   links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+  // },
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', value: '123-456-7890' },
-    { label: 'Email Officer', value: 'hilink@akinthil.com' },
+    { label: 'For inquiries', value: ' 73388 94199' },
+    { label: 'Mail us at', value: 'info@vbccinstruments.com' },
   ],
 };
 
