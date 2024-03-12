@@ -69,7 +69,7 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'For inquiries', value: ' 73388 94199' },
+    { label: 'For inquiries', value: '+91 7338894199' },
     { label: 'Mail us at', value: 'info@vbccinstruments.com' },
   ],
 };
