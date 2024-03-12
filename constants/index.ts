@@ -70,7 +70,7 @@ export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
     { label: 'For inquiries', value: '+91 7338894199' },
-    { label: 'Mail us at', value: 'info@vbccinstruments.com' },
+    { label: 'Mail us at', value: 'voltaflux23@gmail.com' },
   ],
 };
 
